@@ -1,0 +1,91 @@
+[
+  { "id": "q_001", "jobRole": "Java Developer", "difficultyLevel": "Easy", "text": "What is the difference between JDK, JRE, and JVM?" },
+  { "id": "q_002", "jobRole": "Java Developer", "difficultyLevel": "Easy", "text": "What are the four pillars of Object-Oriented Programming? Briefly explain each." },
+  { "id": "q_003", "jobRole": "Java Developer", "difficultyLevel": "Easy", "text": "What is the difference between a class and an object in Java?" },
+  { "id": "q_004", "jobRole": "Java Developer", "difficultyLevel": "Easy", "text": "What is the difference between `==` and `.equals()` in Java?" },
+  { "id": "q_005", "jobRole": "Java Developer", "difficultyLevel": "Easy", "text": "What are the primitive data types available in Java?" },
+
+  { "id": "q_006", "jobRole": "Java Developer", "difficultyLevel": "Medium", "text": "Explain the concept of Java generics and provide an example of a generic method." },
+  { "id": "q_007", "jobRole": "Java Developer", "difficultyLevel": "Medium", "text": "What is the difference between an abstract class and an interface in Java? When would you use each?" },
+  { "id": "q_008", "jobRole": "Java Developer", "difficultyLevel": "Medium", "text": "Explain how the Java Collections Framework is organized. What is the difference between List, Set, and Map?" },
+  { "id": "q_009", "jobRole": "Java Developer", "difficultyLevel": "Medium", "text": "What is the difference between `checked` and `unchecked` exceptions in Java? Give an example of each." },
+  { "id": "q_010", "jobRole": "Java Developer", "difficultyLevel": "Medium", "text": "What are lambda expressions in Java 8? How do they relate to functional interfaces?" },
+
+  { "id": "q_011", "jobRole": "Java Developer", "difficultyLevel": "Hard", "text": "Describe how the Java memory model handles visibility and ordering of writes across threads. What role do `volatile` and `synchronized` play?" },
+  { "id": "q_012", "jobRole": "Java Developer", "difficultyLevel": "Hard", "text": "Explain the mechanics of Java's garbage collection. How do generational collectors work, and what is the difference between Minor GC and Full GC?" },
+  { "id": "q_013", "jobRole": "Java Developer", "difficultyLevel": "Hard", "text": "What is the difference between `ReentrantLock` and `synchronized` in Java? When is one preferable over the other?" },
+  { "id": "q_014", "jobRole": "Java Developer", "difficultyLevel": "Hard", "text": "Explain the concept of class loading in Java. What are the bootstrap, extension, and application classloaders? What is the delegation model?" },
+  { "id": "q_015", "jobRole": "Java Developer", "difficultyLevel": "Hard", "text": "What are Java streams? Describe how lazy evaluation works in stream pipelines and what the difference is between intermediate and terminal operations." },
+
+  { "id": "q_016", "jobRole": "Software Developer", "difficultyLevel": "Easy", "text": "What is version control and why is it important in software development?" },
+  { "id": "q_017", "jobRole": "Software Developer", "difficultyLevel": "Easy", "text": "What is the difference between a compiled language and an interpreted language? Give examples of each." },
+  { "id": "q_018", "jobRole": "Software Developer", "difficultyLevel": "Easy", "text": "What is an algorithm? Can you describe the steps of a simple sorting algorithm like Bubble Sort?" },
+  { "id": "q_019", "jobRole": "Software Developer", "difficultyLevel": "Easy", "text": "What is the difference between a stack and a queue data structure?" },
+  { "id": "q_020", "jobRole": "Software Developer", "difficultyLevel": "Easy", "text": "What does DRY stand for, and why is it an important principle in software development?" },
+
+  { "id": "q_021", "jobRole": "Software Developer", "difficultyLevel": "Medium", "text": "What are SOLID principles? Briefly explain each one and why they matter." },
+  { "id": "q_022", "jobRole": "Software Developer", "difficultyLevel": "Medium", "text": "Explain the difference between unit testing, integration testing, and end-to-end testing. When would you use each?" },
+  { "id": "q_023", "jobRole": "Software Developer", "difficultyLevel": "Medium", "text": "What is Big O notation? Explain the time complexity of binary search and why it is O(log n)." },
+  { "id": "q_024", "jobRole": "Software Developer", "difficultyLevel": "Medium", "text": "What is a design pattern? Explain the Observer pattern and describe a real-world use case for it." },
+  { "id": "q_025", "jobRole": "Software Developer", "difficultyLevel": "Medium", "text": "What is the difference between SQL and NoSQL databases? When would you choose one over the other?" },
+
+  { "id": "q_026", "jobRole": "Software Developer", "difficultyLevel": "Hard", "text": "Describe the CAP theorem. What trade-offs does it impose on distributed systems, and how do databases like Cassandra and PostgreSQL make those trade-offs?" },
+  { "id": "q_027", "jobRole": "Software Developer", "difficultyLevel": "Hard", "text": "What is the difference between concurrency and parallelism? Describe a situation where concurrency without proper synchronization leads to a race condition." },
+  { "id": "q_028", "jobRole": "Software Developer", "difficultyLevel": "Hard", "text": "Explain event-driven architecture. What are its benefits and challenges compared to a request/response architecture?" },
+  { "id": "q_029", "jobRole": "Software Developer", "difficultyLevel": "Hard", "text": "What is a deadlock? Describe the four necessary conditions for a deadlock to occur and explain how to prevent or detect it." },
+  { "id": "q_030", "jobRole": "Software Developer", "difficultyLevel": "Hard", "text": "How does a relational database query optimizer work? What is an execution plan and how can you use it to diagnose slow queries?" },
+
+  { "id": "q_031", "jobRole": "Frontend Developer", "difficultyLevel": "Easy", "text": "What is the difference between HTML and HTML5? Name at least two new features introduced in HTML5." },
+  { "id": "q_032", "jobRole": "Frontend Developer", "difficultyLevel": "Easy", "text": "What is the CSS box model? Explain the roles of margin, border, padding, and content." },
+  { "id": "q_033", "jobRole": "Frontend Developer", "difficultyLevel": "Easy", "text": "What is the difference between `id` and `class` selectors in CSS?" },
+  { "id": "q_034", "jobRole": "Frontend Developer", "difficultyLevel": "Easy", "text": "What is the difference between `let`, `const`, and `var` in JavaScript?" },
+  { "id": "q_035", "jobRole": "Frontend Developer", "difficultyLevel": "Easy", "text": "What does DOM stand for, and how does JavaScript interact with it?" },
+
+  { "id": "q_036", "jobRole": "Frontend Developer", "difficultyLevel": "Medium", "text": "Explain the concept of CSS Flexbox. How does `justify-content` differ from `align-items`?" },
+  { "id": "q_037", "jobRole": "Frontend Developer", "difficultyLevel": "Medium", "text": "What is the difference between `==` and `===` in JavaScript? Provide examples of each." },
+  { "id": "q_038", "jobRole": "Frontend Developer", "difficultyLevel": "Medium", "text": "Explain event bubbling and event capturing in the DOM. How does `event.stopPropagation()` work?" },
+  { "id": "q_039", "jobRole": "Frontend Developer", "difficultyLevel": "Medium", "text": "What are React hooks? Explain the purpose of `useState` and `useEffect` with examples." },
+  { "id": "q_040", "jobRole": "Frontend Developer", "difficultyLevel": "Medium", "text": "What is a Promise in JavaScript? How does it differ from using callbacks, and how do `async/await` build on Promises?" },
+
+  { "id": "q_041", "jobRole": "Frontend Developer", "difficultyLevel": "Hard", "text": "Explain how the browser rendering pipeline works — from parsing HTML/CSS to painting pixels on screen. What causes layout thrashing and how do you avoid it?" },
+  { "id": "q_042", "jobRole": "Frontend Developer", "difficultyLevel": "Hard", "text": "What is the Virtual DOM in React? How does the reconciliation algorithm (diffing) decide what to update in the real DOM?" },
+  { "id": "q_043", "jobRole": "Frontend Developer", "difficultyLevel": "Hard", "text": "Describe the JavaScript event loop. How do the call stack, Web APIs, the microtask queue, and the macrotask queue interact?" },
+  { "id": "q_044", "jobRole": "Frontend Developer", "difficultyLevel": "Hard", "text": "What are Web Workers? How do they help with CPU-intensive tasks and what are their limitations compared to the main thread?" },
+  { "id": "q_045", "jobRole": "Frontend Developer", "difficultyLevel": "Hard", "text": "What is code splitting in a frontend application? How does dynamic `import()` enable lazy loading, and what performance problem does it solve?" },
+
+  { "id": "q_046", "jobRole": "Backend Developer", "difficultyLevel": "Easy", "text": "What is REST and what are its key architectural constraints?" },
+  { "id": "q_047", "jobRole": "Backend Developer", "difficultyLevel": "Easy", "text": "What is the difference between GET and POST HTTP methods? When should you use each?" },
+  { "id": "q_048", "jobRole": "Backend Developer", "difficultyLevel": "Easy", "text": "What is a database index and why is it used?" },
+  { "id": "q_049", "jobRole": "Backend Developer", "difficultyLevel": "Easy", "text": "What is JSON and why is it commonly used in API communication?" },
+  { "id": "q_050", "jobRole": "Backend Developer", "difficultyLevel": "Easy", "text": "What is middleware in the context of an Express.js application?" },
+
+  { "id": "q_051", "jobRole": "Backend Developer", "difficultyLevel": "Medium", "text": "What is the difference between authentication and authorization? How would you implement JWT-based authentication in a REST API?" },
+  { "id": "q_052", "jobRole": "Backend Developer", "difficultyLevel": "Medium", "text": "What is database normalization? Explain the difference between 1NF, 2NF, and 3NF with examples." },
+  { "id": "q_053", "jobRole": "Backend Developer", "difficultyLevel": "Medium", "text": "What is an ORM? What are the advantages and disadvantages of using one compared to writing raw SQL?" },
+  { "id": "q_054", "jobRole": "Backend Developer", "difficultyLevel": "Medium", "text": "What is caching, and what are the differences between in-memory caching (e.g., Redis) and HTTP caching?" },
+  { "id": "q_055", "jobRole": "Backend Developer", "difficultyLevel": "Medium", "text": "How do you handle environment-specific configuration (dev, staging, production) securely in a Node.js backend?" },
+
+  { "id": "q_056", "jobRole": "Backend Developer", "difficultyLevel": "Hard", "text": "Describe how you would design a rate-limiting system for a public REST API. What data structures and storage strategies would you use?" },
+  { "id": "q_057", "jobRole": "Backend Developer", "difficultyLevel": "Hard", "text": "What is the N+1 query problem in databases? How do you detect it and what strategies can eliminate it?" },
+  { "id": "q_058", "jobRole": "Backend Developer", "difficultyLevel": "Hard", "text": "Explain database transactions and ACID properties. How do isolation levels (Read Committed, Serializable, etc.) affect concurrency and consistency?" },
+  { "id": "q_059", "jobRole": "Backend Developer", "difficultyLevel": "Hard", "text": "What are the trade-offs between monolithic and microservices architectures? How do you handle inter-service communication and failure in a microservices setup?" },
+  { "id": "q_060", "jobRole": "Backend Developer", "difficultyLevel": "Hard", "text": "How does horizontal scaling of a stateful backend service work? What challenges arise with session state, and how do sticky sessions and distributed session stores solve them?" },
+
+  { "id": "q_061", "jobRole": "Full Stack Developer", "difficultyLevel": "Easy", "text": "What is the difference between frontend and backend development? How do they communicate in a typical web application?" },
+  { "id": "q_062", "jobRole": "Full Stack Developer", "difficultyLevel": "Easy", "text": "What is CORS and why does a browser enforce it? How would you enable CORS on a backend server?" },
+  { "id": "q_063", "jobRole": "Full Stack Developer", "difficultyLevel": "Easy", "text": "What is the difference between a synchronous and an asynchronous operation? Give an example of each in a web context." },
+  { "id": "q_064", "jobRole": "Full Stack Developer", "difficultyLevel": "Easy", "text": "What is `npm` and what is its role in a Node.js project?" },
+  { "id": "q_065", "jobRole": "Full Stack Developer", "difficultyLevel": "Easy", "text": "What is the purpose of a `.env` file in a web project, and what types of values should you store in it?" },
+
+  { "id": "q_066", "jobRole": "Full Stack Developer", "difficultyLevel": "Medium", "text": "How would you structure a full-stack project so that the frontend and backend are developed and deployed independently? What are the benefits of this separation?" },
+  { "id": "q_067", "jobRole": "Full Stack Developer", "difficultyLevel": "Medium", "text": "Explain the request lifecycle of a React SPA making an authenticated API call to a Node.js backend. What happens at each step?" },
+  { "id": "q_068", "jobRole": "Full Stack Developer", "difficultyLevel": "Medium", "text": "What is server-side rendering (SSR) and how does it differ from client-side rendering (CSR)? When would you prefer one over the other?" },
+  { "id": "q_069", "jobRole": "Full Stack Developer", "difficultyLevel": "Medium", "text": "How do you securely store and transmit passwords in a full-stack application? Describe the role of hashing, salting, and HTTPS." },
+  { "id": "q_070", "jobRole": "Full Stack Developer", "difficultyLevel": "Medium", "text": "What is GraphQL and how does it differ from REST? What problems does it solve for a full-stack developer?" },
+
+  { "id": "q_071", "jobRole": "Full Stack Developer", "difficultyLevel": "Hard", "text": "Describe how you would implement real-time features (e.g., live notifications) in a full-stack application. Compare WebSockets, Server-Sent Events, and polling." },
+  { "id": "q_072", "jobRole": "Full Stack Developer", "difficultyLevel": "Hard", "text": "How would you approach optimizing the performance of a full-stack application that is slow under load? Walk through your diagnostic and resolution process." },
+  { "id": "q_073", "jobRole": "Full Stack Developer", "difficultyLevel": "Hard", "text": "Explain the concept of CI/CD. How would you set up a pipeline that builds, tests, and deploys a full-stack application automatically?" },
+  { "id": "q_074", "jobRole": "Full Stack Developer", "difficultyLevel": "Hard", "text": "What are the security vulnerabilities in the OWASP Top 10 most relevant to full-stack web applications, and how would you mitigate SQL injection and XSS specifically?" },
+  { "id": "q_075", "jobRole": "Full Stack Developer", "difficultyLevel": "Hard", "text": "How does containerization with Docker help a full-stack developer? Explain how you would use Docker Compose to run a React frontend, a Node.js backend, and a PostgreSQL database together locally." }
+]
