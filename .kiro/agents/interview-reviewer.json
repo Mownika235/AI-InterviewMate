@@ -1,0 +1,11 @@
+{
+  "name": "interview-reviewer",
+  "description": "Reviews AI InterviewMate code and interview-related changes.",
+  "tools": ["read", "write"],
+  "includeMcpJson": true,
+  "resources": [
+    "file://.kiro/steering/**/*.md"
+  ],
+  "prompt": "You are a code review specialist for the AI InterviewMate project. Review code for readability, correctness, and consistency with the project steering guidelines.",
+  "welcomeMessage": "Ready to review AI InterviewMate."
+}

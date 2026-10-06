@@ -1,0 +1,15 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Project Check",
+      "description": "Checks the AI InterviewMate project after files are saved.",
+      "trigger": "PostFileSave",
+      "matcher": "\\.(js|jsx|py|json)$",
+      "action": {
+        "type": "agent",
+        "prompt": "Review the saved file for the AI InterviewMate project. Check that the code is readable, follows the project steering guidelines, and does not introduce generated files such as __pycache__ or node_modules."
+      }
+    }
+  ]
+}
